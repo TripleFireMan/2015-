@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DE47D1CDB4BC6629BAFF937B54CDB177E9698D21",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DE47D1CDB4BC6629BAFF937B54CDB177E9698D21" : 0,
+    "9C59A65598C4ADC11CBE7BD07EAA6BF5615A502C" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AF78666E-3436-4F68-88BC-16AE3F355D0D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DE47D1CDB4BC6629BAFF937B54CDB177E9698D21" : "2015-",
+    "9C59A65598C4ADC11CBE7BD07EAA6BF5615A502C" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "WBCore",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "WBCore\/WBCore.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "10.10.151.151:cheng.yan\/PursueTeleplay.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9C59A65598C4ADC11CBE7BD07EAA6BF5615A502C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ab364743113\/2015-.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DE47D1CDB4BC6629BAFF937B54CDB177E9698D21"
+    }
+  ]
+}
